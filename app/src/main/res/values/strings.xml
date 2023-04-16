@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Login Screen Design</string>
+    <string name="kullaniciAdi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="butonYazi">Giriş</string>
+    <string name="yardim">Yardım?</string>
 </resources>
